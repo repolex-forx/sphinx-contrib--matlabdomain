@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "matlabdomain",
+  "versions": [
+    {
+      "commit": "b40265b8a1b7c92e0e74ee4a59b8843dba57ebaf",
+      "tag": "",
+      "parsed_at": "2026-11-06T17:44:41.507120+00:00"
+    }
+  ]
+}
