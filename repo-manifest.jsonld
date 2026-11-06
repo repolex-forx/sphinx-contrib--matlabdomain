@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/matlabdomain/commit/b40265b8a1b7c92e0e74ee4a59b8843dba57ebaf",
       "git:hexsha": "b40265b8a1b7c92e0e74ee4a59b8843dba57ebaf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/matlabdomain/commit/ea84ed2d946c6f8b7b25e9958dd09ec6f88207c5",
